@@ -1,0 +1,7 @@
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\bin\Debug\PcShutdownServer.exe.config
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\bin\Debug\PcShutdownServer.exe
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\bin\Debug\PcShutdownServer.pdb
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\obj\Debug\PcShutdownServer.csprojResolveAssemblyReference.cache
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\obj\Debug\PcShutdownServer.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\obj\Debug\PcShutdownServer.exe
+C:\Users\ПавловЕ\source\repos\PcShutdownServer\PcShutdownServer\obj\Debug\PcShutdownServer.pdb
